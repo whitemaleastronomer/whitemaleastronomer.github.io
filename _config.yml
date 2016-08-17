@@ -1,7 +1,7 @@
-title: White Male Astronomy
+title: White Male Astronomer
 description: A voice for the majority.
 
-url: http://whitemaleastronomy.github.io/
+url: http://whitemaleastronomer.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
