@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contact
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h1 class="pageTitle">Contact</h1>
   <div class="contactContent">
-    <p class="intro">Send me an email <a href="mailto:whitemalescience@gmail.com">here/a>. Enjoy!</p>
+    <p class="intro">Send me an email <a href="mailto:whitemalescience@gmail.com">here</a> or pop a message in the contact form. </p>
   </div>
   <form action="http://formspree.io/whitemalescience@mail.com" method="POST">
     <label for="name">Name</label>    
